@@ -10,4 +10,6 @@ initial messages are delayed by 3 seconds.
 
 Microsoft Visual C++ 2010 Redistributable Package is required to use this.
 
+You can find the source for this at: https://github.com/Zoxc/AntiSpam
+
 - Enjoy spam free playing
